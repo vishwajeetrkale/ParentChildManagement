@@ -9,6 +9,11 @@ namespace ParentChildManagementCodeFirstProject
 {
     public partial class PCManagementDbContext : DbContext
     {
+        public PCManagementDbContext(): base("pmc")
+        {
+
+        }
+
         public virtual DbSet<ChildDetail> ChildDetails { get; set; }
 
         public virtual DbSet<ParentDetail> ParentDetails { get; set; }

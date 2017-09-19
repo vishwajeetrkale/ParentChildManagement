@@ -131,8 +131,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\ChildDetail.cs" />
+    <Compile Include="Models\MyBaseClassWithConstructor.cs" />
     <Compile Include="Models\ParentDetail.cs" />
+    <Compile Include="Models\MyClassInheritingBaseClass.cs" />
     <Compile Include="PCManagementDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

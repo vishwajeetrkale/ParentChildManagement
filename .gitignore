@@ -5,3 +5,6 @@ ParentChildManagementCodeFirstProject/ParentChildManagementCodeFirstProject.Test
 ParentChildManagementCodeFirstProject/ParentChildManagementCodeFirstProject.Tests/bin/
 ParentChildManagementCodeFirstProject/CSharpConceptsExamples/obj/
 ParentChildManagementCodeFirstProject/CSharpConceptsExamples/bin/
+ParentChildManagementCodeFirstProject/myWebAPI/bin/
+ParentChildManagementCodeFirstProject/myWebAPI/obj/
+*.user

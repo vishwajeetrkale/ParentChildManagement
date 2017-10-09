@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExplicitAndImplicitInterfaces.cs" />
+    <Compile Include="ExplicitInterfaceImplementation.cs" />
     <Compile Include="ExtensionMethodExample.cs" />
     <Compile Include="GenericsConcept.cs" />
+    <Compile Include="ImplementingStdDNetFrmwrkInterfaces.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WhenToUseOverrideAndNewKeywords.cs" />
+    <Compile Include="WK_FirstTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

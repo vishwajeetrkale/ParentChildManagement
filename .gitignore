@@ -10,3 +10,5 @@ ParentChildManagementCodeFirstProject/myWebAPI/obj/
 *.user
 ParentChildManagementCodeFirstProject/.vs/ParentChildManagementCodeFirstProject/v14/.suo
 ParentChildManagementCodeFirstProject/.vs/config/applicationhost.config
+ParentChildManagementCodeFirstProject/Resources/obj/
+ParentChildManagementCodeFirstProject/Resources/bin/
